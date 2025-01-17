@@ -1,0 +1,6 @@
+LOGIN = "jjiqcbr451@ramvv.com"
+PASSWORD = "Gfhjkm@024"
+TOKEN = "9154eba30b31064bc4f03b4bbda30e91"
+COMPANY_ID = "ab0b51be-c518-43ec-ad09-b4870334be84"
+BASE_URL = "https://api.travelpayouts.com/v1/prices/"
+USER_KEY = "qszp5d8GBZATAaJ1otszfZqUK5rU5ngiJfXjOVRbFShwiRZCHhid-r686E9m37LO"
